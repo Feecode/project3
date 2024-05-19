@@ -1,3 +1,3 @@
 # new project 
 
-this project was created on local system by faisal malik.
+this project was created on local system by Faisal malik.
